@@ -2,8 +2,8 @@
   "version": 1,
   "name": "ZKC",
   "id": "0dd9a318-514a-4150-ab59-7c1e5b7247b2",
-  "updateUrl": "https://github.com/AsdeAK/ZKC-ATIS/blob/main/vATIS%20Profile%20-%20ZKC%20new%20vATIS%20test.json",
-  "updateSerial": 202412003,
+  "updateUrl": "https://github.com/AsdeAK/ZKC-ATIS/raw/refs/heads/main/vATIS%20Profile%20-%20ZKC%20new%20vATIS%20test.json",
+  "updateSerial": 202412025,
   "stations": [
     {
       "id": "72ed65a5-661d-434d-9e2a-ef1997e238a7",
